@@ -2,7 +2,7 @@
 This project will let you know more about your name in different months, years or even decades other than when you were born.
 You will be able to know what will be your name if you were born in another different year or month.
 You will know how many babies that have the same name as yours who were born in the same birth date as yours. 
-You will know how popular was your name when you were born,and so many other informations about your name. 
+You will know how popular was your name when you were born, and so many other information about your name. 
 Did you have a basic name? or did everyone wondered where did your parents get this name from? aren't you curious?
 I tested this project on data of baby names from the United States and will answer questions about this data. The data files give information on the first names of people born in a particular year.i had data from 1880 through 2014 on both boys and girls names. 
 This project works with CSV files and all the applications on them.
