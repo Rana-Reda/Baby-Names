@@ -4,7 +4,7 @@ You will be able to know what will be your name if you were born in another diff
 You will know how many babies that have the same name as yours who were born in the same birth date as yours. 
 You will know how popular was your name when you were born,and so many other informations about your name. 
 Did you have a basic name? or did everyone wondered where did your parents get this name from? aren't you curious?
-For this project, i have data on baby names from the United States and will answer questions about this data. The data files give information on the first names of people born in a particular year.i have data from 1880 through 2014 on both boys and girls names. 
+I tested this project on data of baby names from the United States and will answer questions about this data. The data files give information on the first names of people born in a particular year.i had data from 1880 through 2014 on both boys and girls names. 
 This project works with CSV files and all the applications on them.
 I wrote a method for every function for this project and below are these method and their description.
 #totalBirth: this method counts and then prints the number of boys names, the number of girls names and the total names in the file. 
