@@ -1,10 +1,4 @@
 
-/**
- * Write a description of babyBirths here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 import org.apache.commons.csv.*;
 import edu.duke.*;
 import java.io.*;
